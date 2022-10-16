@@ -1,0 +1,19 @@
+{
+  "name": "africonnect-rest-api",
+  "version": "1.0.0",
+  "description": "A Social Network App called AfriConnect ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl-engineer/project3.git"
+  },
+  "author": "Bocar Ly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bl-engineer/project3/issues"
+  },
+  "homepage": "https://github.com/bl-engineer/project3#readme"
+}
